@@ -1,7 +1,7 @@
 # Data-Science-Estimator-Using-Glassdoor
 
 
-# Live Demo:-https://data-science-estimator-using-glassdoorgit.streamlit.app/
+# Live Demo:-https://data-science-estimator-using-glassdoor.streamlit.app/
 ## 📌 Project Overview
 
 This project leverages a dataset extracted from the **Glassdoor** job portal, focusing on **data science jobs** and related salary information...
