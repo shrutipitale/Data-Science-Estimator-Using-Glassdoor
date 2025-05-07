@@ -38,7 +38,7 @@ with col1:
     """)
 
 with col2:
-    st.subheader("🔄 Life Cycle Of Machine Learning Project 🤖")
+    st.subheader("🔄  Data Science Estimator Using Glassdoor Project 🤖")
     st.markdown("""
     1. Understanding the Problem Statement  
     2. Data Checks to Perform  
